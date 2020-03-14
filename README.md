@@ -5,4 +5,4 @@ Mathematics class , including vectors, matrices (regular, square, triangular) an
 
 
 # installation
-* As CMake project - target 'CmakeLists.txt'.
+* As CMake project - target `CmakeLists.txt`.
