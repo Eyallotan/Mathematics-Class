@@ -1,5 +1,0 @@
-MtmError: Illegal initialization values
-MtmError: Out of memory
-MtmError: Dimension mismatch: (3,3) (3,1)
-MtmError: Change matrix shape failed from (3,3) to (2,3)
-MtmError: Attempt access to illegal element
