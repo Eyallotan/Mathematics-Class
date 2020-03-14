@@ -1,4 +1,4 @@
-# Mathematics-Class
+# Mathematics-Namespace
 Mathematics namespace , including vectors, matrices (regular, square, triangular) and operator - implemented with object oriented programming 
 
 namespace includes:
